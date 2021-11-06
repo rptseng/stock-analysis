@@ -4,7 +4,7 @@
 Steve is looking to efficiently use an Excel workbook macro to analyze the total volume and growth of various stock data from the years 2017 and 2018. Using a previously written VBA script for this task, we will refactor the code with the use of arrays to determine whether or not the VBA script can be run faster.
 
 ## Results
-
+[Excel Workbook with refactored VBA script](https://github.com/rptseng/stock-analysis/blob/main/VBA_Challenge.xlsm)
 ### Original Script Run Time
 The original script before refactoring with arrays had a run time of 0.901 seconds for the year "2017" 0.905 seconds for the year "2018".
 
